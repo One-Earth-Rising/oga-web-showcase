@@ -1,0 +1,11 @@
+{
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "workbench.localHistory.enabled": true,
+  "workbench.localHistory.maxFileEntries": 50,
+  "git.autofetch": true,
+  "editor.formatOnSave": true,
+  "[dart]": {
+    "editor.formatOnSave": true
+  }
+}
