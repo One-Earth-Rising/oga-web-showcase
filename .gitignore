@@ -1,5 +1,14 @@
+# Flutter/Dart
 .dart_tool/
 .packages
 build/
+.flutter-plugins
+.flutter-plugins-dependencies
+idea/
+.vscode/*
+!.vscode/settings.json
 .DS_Store
+Thumbs.db
+*.env
+.env.local
 .backups/
