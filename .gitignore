@@ -13,3 +13,4 @@ Thumbs.db
 .env.local
 .backups/
 android/app/src/main/kotlin/com/oga/oga_web_showcase/oga_web_showcase
+android/app/src/main/kotlin/com/oga/oga_web_showcase/oga_web_showcase
